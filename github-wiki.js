@@ -7,7 +7,7 @@ var title;
 if (document.URL.match("=")) {
     title = document.URL.split("=")[1];
 } else {
-    title = "Ori-for-Love";
+    title = "Ori";
 }
 
 //transforms double brackets links into markdown links
