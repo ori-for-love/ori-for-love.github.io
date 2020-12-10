@@ -76,7 +76,7 @@ $(function() {
     //Add event to the edit link
     $("#edit_link").click(function(e) {
         console.log("this");
-        window.location.href = "https://github.com/" + github_page + "/" + github_page + ".github.io/blob/master/wiki/" + title + ".md";
+        window.location.href = "https://github.com/" + github_page + "/" + github_page + ".github.io/blob/main/wiki/" + title + ".md";
         return false;
     });
     load_article(title);
