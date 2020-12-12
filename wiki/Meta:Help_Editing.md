@@ -12,7 +12,7 @@ After all these, one of the member of the community, reviews the changes and acc
 
 
 Syntax
-------
+-------
 
 The wiki syntax is Markdown with a few additions:
 
